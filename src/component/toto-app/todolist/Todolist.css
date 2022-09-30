@@ -1,0 +1,15 @@
+.Todolist {}
+
+.todo {
+       text-align: left;
+
+}
+
+.completed {
+       color: green;
+}
+
+.uncompleted {
+
+       color: red;
+}
